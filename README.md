@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on becoming a Fullstack Java developer<br>🤝 I’m looking for help with <br>🌱 I’m currently learning SpringBoot, Angular.<br>💬 Ask me about : programming stuff, DS-Algos, AI<br>⚡ Fun fact :  The name "Java" refers to the coffee-loving culture at <br>Sun Microsystems, the company where Java was developed. Additionally, you can find a cup of coffee in the Java logo! So, every time you write Java code, <br>you're also paying a subtle tribute to the world of coffee. ☕️👩‍💻
+🔭 I’m currently working on becoming a Fullstack Java developer<br>🤝 I’m currently learning SpringBoot, Angular.<br>💬 Ask me about : programming stuff, DS-Algos, AI<br>⚡ Fun fact :  The name "Java" refers to the coffee-loving culture at <br>Sun Microsystems, the company where Java was developed. Additionally, you can find a cup of coffee in the Java logo! So, every time you write Java code, <br>you're also paying a subtle tribute to the world of coffee. ☕️👩‍💻
 
 
 ## 🌐 Socials:
